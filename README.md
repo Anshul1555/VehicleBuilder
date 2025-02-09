@@ -1,6 +1,7 @@
 # VehicleBuilder
 
-##Description
+## Description
+
 VehicleBuilder is a command line application which allows user to create, select and interact with diffrent types of vehicles: Car, Truck, Motorbile and also perform various types of actions.
 
 ## Functionality
